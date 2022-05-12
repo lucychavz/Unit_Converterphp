@@ -1,0 +1,41 @@
+body {
+  background: rgb(175, 170, 255);
+  background: linear-gradient(90deg, rgba(175, 170, 255, 1) 0%, rgba(251, 205, 205, 1) 21%, rgba(196, 196, 235, 1) 38%, rgba(242, 248, 249, 1) 81%);
+}
+
+h1 {
+  font-family: 'Lobster', cursive;
+  font-size: 76px;
+}
+
+h2 {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 40px;
+}
+
+button {
+  font-family: 'Lato', sans-serif;
+  font-size: 100px;
+  border-radius: 10px;
+}
+
+input {
+  font-family: 'Lato', sans-serif;
+  font-size: 100px;
+  border-radius: 18px
+}
+
+img {
+  width: 5cm;
+  height: 5cm;
+}
+
+.m1 {
+  display: 1 1 auto;
+  flex-wrap: wrap-reverse;
+}
+
+.m2 {
+  display: 1 1 auto;
+  flex-wrap: wrap-reverse;
+}
