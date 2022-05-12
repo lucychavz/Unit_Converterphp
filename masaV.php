@@ -12,7 +12,7 @@
 
 </head>
 
-<body background="xampp\htdocs\imgs\balance">
+<body>
     <center><b>
             <h1>CONVERSIÓN DE MASA</h1>
         </b>

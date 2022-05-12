@@ -26,9 +26,7 @@
       <div class="m1">
 
         <button class="btn btn-primary" onclick="location.href='masaV.php'">Masa </button>
-
         <img src="http://vicmat.com/wp-content/uploads/2017/03/balanza-PNG.png" alt="">
-
 
         <button class="btn btn-secondary" onclick="location.href='longitudV.php'">Longitud</button>
         <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Measurement_unit.jpg" alt="">
